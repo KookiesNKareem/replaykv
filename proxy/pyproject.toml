@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "replaykv-proxy"
+version = "0.1.0"
+description = "Bounded-replay proxy: serve million-token contexts on any OpenAI-compatible backend (Ollama, llama.cpp, LM Studio, vLLM)"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "fastapi",
+  "uvicorn",
+  "httpx",
+  "transformers",
+]
+
+[project.scripts]
+replaykv-proxy = "replaykv_proxy.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["replaykv_proxy*"]
+
+[tool.setuptools.package-data]
+replaykv_proxy = ["tables/*.npz"]

@@ -1,0 +1,47 @@
+{
+  "agg_decode_tok_s": 2320.63584141196,
+  "aggregation_snippets": "drop",
+  "aggregation_summary": "auto",
+  "aggregation_topn": 16,
+  "data_root": "results/official_ruler_data_1m_focused_n5",
+  "decode_std": 0.0,
+  "decode_trials": [
+    2320.636
+  ],
+  "gpu_mem_used_gb": 33.353,
+  "hops": 4,
+  "max_model_len": 2161,
+  "max_prompt_len": 1841,
+  "mean_aggregation_feature_MB": 0.092766,
+  "mean_feature_MB": 5.861801,
+  "mean_index_s": 3.00589,
+  "mean_prompt_len": 1127.8,
+  "mean_score": 96.67,
+  "mean_source_len": 995542.2,
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "niah_answer_projector": "off",
+  "niah_key_queries": "off",
+  "qa_answer_projector": "off",
+  "qa_replay": "graph",
+  "qa_top_docs": 12,
+  "radius": 1,
+  "samples": 30,
+  "selector": "learned_tags",
+  "task_scores": {
+    "cwe": 100.0,
+    "fwe": 100.0,
+    "niah_multikey_2": 100.0,
+    "niah_multikey_3": 80.0,
+    "niah_single_1": 100.0,
+    "vt": 100.0
+  },
+  "tasks": [
+    "niah_single_1",
+    "niah_multikey_2",
+    "niah_multikey_3",
+    "vt",
+    "cwe",
+    "fwe"
+  ],
+  "topk": 8
+}

@@ -1,0 +1,23 @@
+{
+ "model": "Qwen/Qwen2.5-7B-Instruct",
+ "mode": "dense_full_context",
+ "samples": 65,
+ "wall_s": 693.5,
+ "gpu_mem_used_gb": 130.425,
+ "task_scores": {
+  "cwe": 34.0,
+  "fwe": 53.33,
+  "niah_multikey_1": 100.0,
+  "niah_multikey_2": 20.0,
+  "niah_multikey_3": 20.0,
+  "niah_multiquery": 100.0,
+  "niah_multivalue": 60.0,
+  "niah_single_1": 100.0,
+  "niah_single_2": 100.0,
+  "niah_single_3": 100.0,
+  "qa_1": 80.0,
+  "qa_2": 20.0,
+  "vt": 96.0
+ },
+ "mean_score": 67.95
+}

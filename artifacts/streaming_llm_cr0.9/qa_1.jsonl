@@ -1,0 +1,2 @@
+{"index": 0, "pred": "France", "outputs": ["France", "France", "France", "France"], "score": 1.0, "gen_s": 26.6}
+{"index": 1, "pred": "The Normans in Normandy developed their customary law between the 10th and 13th centuries.", "outputs": ["10th and 11th centuries", "in the 10th and 11th centuries", "10th and 11th centuries", "10th and 11th centuries"], "score": 0.0, "gen_s": 27.5}

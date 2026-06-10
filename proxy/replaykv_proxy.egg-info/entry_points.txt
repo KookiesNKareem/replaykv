@@ -1,0 +1,2 @@
+[console_scripts]
+replaykv-proxy = replaykv_proxy.cli:main

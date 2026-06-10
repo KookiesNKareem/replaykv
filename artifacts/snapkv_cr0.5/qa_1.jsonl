@@ -1,0 +1,10 @@
+{"index": 0, "pred": "France", "outputs": ["France", "France", "France", "France"], "score": 1.0, "gen_s": 1.5}
+{"index": 1, "pred": "Between 911 and the eventual extension west beyond the Seine.", "outputs": ["10th and 11th centuries", "in the 10th and 11th centuries", "10th and 11th centuries", "10th and 11th centuries"], "score": 0.0, "gen_s": 1.8}
+{"index": 2, "pred": "Denmark, Norway, and Iceland", "outputs": ["Denmark, Iceland and Norway", "Denmark, Iceland and Norway", "Denmark, Iceland and Norway", "Denmark, Iceland and Norway"], "score": 0.0, "gen_s": 1.6}
+{"index": 3, "pred": "Rollo", "outputs": ["Rollo", "Rollo", "Rollo", "Rollo"], "score": 1.0, "gen_s": 1.5}
+{"index": 4, "pred": "10th century", "outputs": ["10th century", "the first half of the 10th century", "10th", "10th"], "score": 1.0, "gen_s": 1.4}
+{"index": 0, "pred": "France", "outputs": ["France", "France", "France", "France"], "score": 1.0, "gen_s": 1.5}
+{"index": 1, "pred": "Between 911 and the eventual extension west beyond the Seine.", "outputs": ["10th and 11th centuries", "in the 10th and 11th centuries", "10th and 11th centuries", "10th and 11th centuries"], "score": 0.0, "gen_s": 1.8}
+{"index": 2, "pred": "Denmark, Norway, and Iceland", "outputs": ["Denmark, Iceland and Norway", "Denmark, Iceland and Norway", "Denmark, Iceland and Norway", "Denmark, Iceland and Norway"], "score": 0.0, "gen_s": 1.6}
+{"index": 3, "pred": "Rollo", "outputs": ["Rollo", "Rollo", "Rollo", "Rollo"], "score": 1.0, "gen_s": 1.5}
+{"index": 4, "pred": "10th century", "outputs": ["10th century", "the first half of the 10th century", "10th", "10th"], "score": 1.0, "gen_s": 1.4}

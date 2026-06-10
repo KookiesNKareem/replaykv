@@ -1,0 +1,31 @@
+{
+ "block_size": 64,
+ "clusters_K": 1024,
+ "query_expansion_m": 4,
+ "gate_threshold_tau": 1.0,
+ "route_compact": {
+  "topk": 48,
+  "radius": 1
+ },
+ "route_wide": {
+  "topk": 32,
+  "radius": 4
+ },
+ "candidate_multiplier": 6,
+ "budget_cap_tokens": 12000,
+ "budget_hard_cap": 20000,
+ "qa": {
+  "initial_docs": 8,
+  "bridge_queries": 12,
+  "bridge_docs": 2,
+  "sentences_per_doc": 2,
+  "max_new": 256
+ },
+ "lexical_weights": {
+  "idf_overlap": 5.0,
+  "tfidf_overlap": 3.0,
+  "exact_overlap": 0.5,
+  "bigram_overlap": 2.0,
+  "recency": 0.05
+ }
+}

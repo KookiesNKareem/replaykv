@@ -1,0 +1,2 @@
+{"index": 0, "pred": "The answer to the question is that Normandy is located in France.", "outputs": ["France", "France", "France", "France"], "score": 1.0, "gen_s": 27.3}
+{"index": 1, "pred": "The question is not answered by the given documents.", "outputs": ["10th and 11th centuries", "in the 10th and 11th centuries", "10th and 11th centuries", "10th and 11th centuries"], "score": 0.0, "gen_s": 27.4}

@@ -1,0 +1,23 @@
+{
+ "model": "NousResearch/Meta-Llama-3.1-8B-Instruct",
+ "mode": "dense_full_context",
+ "samples": 65,
+ "wall_s": 2122.6,
+ "gpu_mem_used_gb": 130.401,
+ "task_scores": {
+  "cwe": 2.0,
+  "fwe": 66.67,
+  "niah_multikey_1": 100.0,
+  "niah_multikey_2": 80.0,
+  "niah_multikey_3": 60.0,
+  "niah_multiquery": 100.0,
+  "niah_multivalue": 100.0,
+  "niah_single_1": 100.0,
+  "niah_single_2": 100.0,
+  "niah_single_3": 100.0,
+  "qa_1": 80.0,
+  "qa_2": 40.0,
+  "vt": 64.0
+ },
+ "mean_score": 76.36
+}

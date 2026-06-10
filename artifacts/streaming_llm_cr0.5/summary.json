@@ -1,0 +1,15 @@
+{
+ "model": "Qwen/Qwen2.5-7B-Instruct",
+ "press": "streaming_llm",
+ "compression_ratio": 0.5,
+ "samples": 20,
+ "wall_s": 52.7,
+ "gpu_mem_used_gb": 19.909,
+ "task_scores": {
+  "niah_multikey_2": 40.0,
+  "niah_single_1": 40.0,
+  "qa_1": 60.0,
+  "vt": 60.0
+ },
+ "mean_score": 50.0
+}
