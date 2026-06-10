@@ -48,7 +48,7 @@ llama.cpp server, LM Studio, or vLLM. See `proxy/README.md`.
 - `artifacts/` — summary + per-sample records for all reported runs
 
 Paper: *ReplayKV: Bounded-Replay Long-Context Serving with a Self-Built
-Index* (arXiv link forthcoming; under review at TMLR).
+Index* (arXiv link forthcoming).
 
 ## License
 
